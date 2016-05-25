@@ -49,6 +49,19 @@ a {
   margin-bottom: 30px;
 }
 
+
+.alpha {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
 .page-footer {
   color: gray;
+}
+
+.ranger {
+  display: inline;
+  text-align: center;
+  margin-left:auto;
+  margin-right: auto;
 }
