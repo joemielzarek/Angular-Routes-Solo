@@ -1,0 +1,54 @@
+body {
+  background-color: black;
+}
+
+.jumbotron {
+  background-color: black;
+  padding: 0px;
+}
+
+.navigation {
+  background-color: black;
+  margin-bottom: 30px;
+}
+
+li {
+  margin: 2px;
+}
+
+a {
+  color: white;
+}
+
+.container {
+  height: auto;
+  color: white;
+}
+
+.home-container {
+  height: auto;
+}
+
+.page-footer {
+  color: white;
+  padding: 10px;
+}
+
+.power-coin {
+  text-align: center;
+  margin: 20px;
+}
+
+.power-info {
+  text-align: center;
+  color: white;
+}
+
+.zordon {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.page-footer {
+  color: gray;
+}
